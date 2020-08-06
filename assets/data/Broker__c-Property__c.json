@@ -415,6 +415,16 @@
                     }
                 ]
             }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef9"
+            },
+            "Name": "teste master org",
+            "Properties__r": {
+                "records": []
+            }
         }
     ]
 }
